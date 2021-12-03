@@ -7,11 +7,16 @@
 			background-color:powderblue;
 		}
 	</style>
+
+<h1>
+Hiii guys I'm Ian Mangubat
+</h1>
 </head>
 <body>
 <?PHP
 	echo "Hello, GCCians!";
 	echo "<h1>Welcome to Git!";
+        echo "gwapa nezzah";
 ?>
 <p>Hi, I'm jim! Welcome to Git!</p>
 	<script>
