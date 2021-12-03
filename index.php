@@ -13,6 +13,7 @@
 	echo "Hello, GCCians!";
 	echo "<h1>Welcome to Git!";
 ?>
+<p>Hi, I'm jim! Welcome to Git!</p>
 	<script>
 	console.log('JavaScript Console');
 	alert('JavaScript Alert');
