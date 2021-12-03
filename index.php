@@ -16,6 +16,7 @@ Hiii guys I'm Ian Mangubat
 <?PHP
 	echo "Hello, GCCians!";
 	echo "<h1>Welcome to Git!";
+        echo "gwapa nezzah";
 ?>
 	<script>
 	console.log('JavaScript Console');
