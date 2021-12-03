@@ -4,7 +4,7 @@
 	<title>Web Application</title>
 	<style>
 		body {
-			background-color:#fafafa;
+			background-color:powderblue;
 		}
 	</style>
 </head>
