@@ -7,21 +7,15 @@
 			background-color:powderblue;
 		}
 	</style>
-
-<h1>
-Hiii guys I'm Ian Mangubat
-</h1>
 </head>
 <body>
-<?PHP
-	echo "Hello, GCCians!";
-	echo "<h1>Welcome to Git!";
-        echo "gwapa nezzah";
-	echo "hello git, I'm Ann";
-?>
-<p>Hi, I'm jim! Welcome to Git!</p>
+	<h1>Welcome to HTML5</h1>
+	<?PHP
+		echo "Hello, GCCians!";
+	?>
 	<script>
-	console.log('JavaScript Console');
-	alert('JavaScript Alert');
+		let h1 = document.querySelector("h1");
+		h1.innerHTML = "JavaScript!";
+		console.log('JavaScript Console!');
 	</script>
 </body>
